@@ -1,4 +1,4 @@
-package com.samy.xss.entity;
+package com.samy.io2.entity;
 
 import lombok.Data;
 
